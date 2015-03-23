@@ -6,3 +6,5 @@ Small ui example: upload/download/rename/delete files or make/remove directories
 First you need to download the impacket python module: impacket-0.9.12.tar.gz
 Then extract \impacket-0.9.12\impacket\ to the side-packages directory.
 And you also need a copy of ntpath.py in your side-package directory.
+
+The active window is red, so buttons belong either to the local or to the remote side.
